@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dekiru Theme Translation v1.0\n"
+"POT-Creation-Date: 2017-10-10 22:30+0900\n"
+"PO-Revision-Date: 2017-10-10 22:31+0900\n"
+"Last-Translator: Communitycom, Inc. <yoshida@commynitycom.jp>\n"
+"Language-Team: Communitycom, Inc. <info@communitycom.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:16 ../inc/extras.php:63
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "ページが見つかりませんでした。"
+
+#: ../404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "このページは見つかりませんでした。トップページよりお探しください。"
+
+#: ../404.php:21
+msgid "Go to Top Page"
+msgstr "戻る"
+
+#: ../archive.php:36 ../front-page.php:45 ../search.php:37
+msgid "Read More"
+msgstr "続きを読む"
+
+#: ../archive.php:47 ../search.php:49
+msgid "No posts."
+msgstr "投稿はありません。"
+
+#: ../comments.php:23
+msgid "Comments List"
+msgstr "コメント一覧"
+
+#: ../comments.php:26
+msgid "Prevoius comment"
+msgstr "前のコメント"
+
+#: ../comments.php:27
+msgid "Next comment"
+msgstr "次のコメント"
+
+#: ../front-page.php:26
+msgid "What`s New"
+msgstr "新着情報"
+
+#: ../functions.php:43
+msgid "GlobalNav"
+msgstr "グローバルナビ"
+
+#: ../functions.php:91
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: ../functions.php:104
+msgid "Footer"
+msgstr "フッター"
+
+#: ../functions.php:114
+msgid "Front Page Top"
+msgstr "トップページ コンテンツエリア 上部"
+
+#: ../header.php:43
+msgid "Menu"
+msgstr "メニュー"
+
+#: ../single.php:47
+msgid "Pages:"
+msgstr "ページ:"
+
+#: ../inc/bread-crumb.php:23
+msgid "Home"
+msgstr "ホーム"
+
+#: ../inc/bread-crumb.php:25
+#, php-format
+msgid "Search Result of \"%s\""
+msgstr "\"%s\" の検索結果"
+
+#: ../inc/bread-crumb.php:26
+msgid "404 Not Found"
+msgstr "見つかりませんでした"
+
+#: ../inc/custom-walker.php:116
+#, php-format
+msgid "#%d (no title)"
+msgstr "#%d (タイトルなし)"
+
+#: ../inc/custom-widgets.php:35
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: ../inc/custom-widgets.php:60
+msgid "Select Category"
+msgstr "カテゴリー選択"
+
+#: ../inc/custom-widgets.php:116
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: ../inc/custom-widgets.php:137
+msgid "Select Year"
+msgstr "年選択"
+
+#: ../inc/custom-widgets.php:140
+msgid "Select Month"
+msgstr "月選択"
+
+#: ../inc/custom-widgets.php:143
+msgid "Select Day"
+msgstr "日選択"
+
+#: ../inc/custom-widgets.php:146
+msgid "Select Week"
+msgstr "週選択"
+
+#: ../inc/custom-widgets.php:149
+msgid "Select Post"
+msgstr "投稿選択"
+
+#: ../inc/custom-widgets.php:195
+msgid "Pages"
+msgstr "ページ"
+
+#: ../inc/custom-widgets.php:260
+msgid "Recent Posts"
+msgstr "最近の投稿"
+
+#: ../inc/customizer.php:16
+msgid "Design Settings"
+msgstr "デザイン設定"
+
+#: ../inc/customizer.php:27
+msgid "Key color"
+msgstr "キーカラー"
+
+#: ../inc/customizer.php:43
+msgid "Site logo image"
+msgstr "サイトロゴ画像"
+
+#: ../inc/customizer.php:53
+msgid "Slide show"
+msgstr "スライドショー"
+
+#: ../inc/customizer.php:70
+msgid "Slide image"
+msgstr "スライド画像"
+
+#: ../inc/customizer.php:85
+msgid "Link url"
+msgstr "リンクURL"
+
+#: ../inc/customizer.php:100
+msgid "Open in new window"
+msgstr "リンク先を別ウィンドウで開く"
+
+#: ../inc/customizer.php:115
+msgid "Caption"
+msgstr "キャプション"
+
+#: ../inc/customizer.php:130
+msgid "Alt Tag"
+msgstr "代替テキスト"
+
+#: ../inc/extras.php:82
+#, php-format
+msgid "%s of the article list"
+msgstr "%sの記事一覧"
+
+#: ../inc/extras.php:83
+msgid "F Y"
+msgstr "Y年n月"
+
+#: ../inc/extras.php:112
+msgid "Post list"
+msgstr "投稿一覧"
+
+#: ../inc/extras.php:116
+#, php-format
+msgid "Search Results for: %s"
+msgstr "%s の検索結果"
+
+#: ../inc/extras.php:147
+msgid "Search"
+msgstr "検索"
+
+#: ../inc/extras.php:165
+msgid "Reply"
+msgstr "返信"
+
+#: ../inc/extras.php:183
+#, php-format
+msgid "Copyright &copy; %s All Rights Reserved."
+msgstr "Copyright &copy; %s All Rights Reserved."
+
+#: ../inc/extras.php:185
+msgid ""
+"<div id=\"powered\">Powered by <a href=\"https://wordpress.org/\" target="
+"\"_blank\">WordPress</a> &amp; <a href=\"https://www.communitycom.jp/dekiru"
+"\" target=\"_blank\" title=\"Free WordPress Theme Dekiru\"> Dekiru Theme</a> "
+"by <a href=\"https://www.communitycom.jp/\" target=\"_blank\">Communitycom,"
+"Inc.</a></div>"
+msgstr ""
+"<div id=\"powered\">Powered by <a href=\"https://wordpress.org/\" target="
+"\"_blank\">WordPress</a> &amp; <a href=\"https://www.communitycom.jp/dekiru"
+"\" target=\"_blank\" title=\"Free WordPress Theme Dekiru\"> Dekiru Theme</a> "
+"by <a href=\"https://www.communitycom.jp/\" target=\"_blank\">Communitycom,"
+"Inc.</a></div>"
+
+#~ msgid "Site Search"
+#~ msgstr "サイト内検索"
